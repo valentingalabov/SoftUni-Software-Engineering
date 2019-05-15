@@ -8,3 +8,14 @@ C:\Users\Valio\Desktop\MAtching Brackets\obj\Debug\netcoreapp2.2\Matching Bracke
 C:\Users\Valio\Desktop\MAtching Brackets\obj\Debug\netcoreapp2.2\Matching Brackets.AssemblyInfo.cs
 C:\Users\Valio\Desktop\MAtching Brackets\obj\Debug\netcoreapp2.2\Matching Brackets.dll
 C:\Users\Valio\Desktop\MAtching Brackets\obj\Debug\netcoreapp2.2\Matching Brackets.pdb
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\STACKS AND QUEUES-Lab\04. Matching Brackets\bin\Debug\netcoreapp2.2\Matching Brackets.deps.json
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\STACKS AND QUEUES-Lab\04. Matching Brackets\bin\Debug\netcoreapp2.2\Matching Brackets.runtimeconfig.json
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\STACKS AND QUEUES-Lab\04. Matching Brackets\bin\Debug\netcoreapp2.2\Matching Brackets.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\STACKS AND QUEUES-Lab\04. Matching Brackets\bin\Debug\netcoreapp2.2\Matching Brackets.dll
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\STACKS AND QUEUES-Lab\04. Matching Brackets\bin\Debug\netcoreapp2.2\Matching Brackets.pdb
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\STACKS AND QUEUES-Lab\04. Matching Brackets\obj\Debug\netcoreapp2.2\Matching Brackets.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\STACKS AND QUEUES-Lab\04. Matching Brackets\obj\Debug\netcoreapp2.2\Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\STACKS AND QUEUES-Lab\04. Matching Brackets\obj\Debug\netcoreapp2.2\Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\STACKS AND QUEUES-Lab\04. Matching Brackets\obj\Debug\netcoreapp2.2\Matching Brackets.AssemblyInfo.cs
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\STACKS AND QUEUES-Lab\04. Matching Brackets\obj\Debug\netcoreapp2.2\Matching Brackets.dll
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\STACKS AND QUEUES-Lab\04. Matching Brackets\obj\Debug\netcoreapp2.2\Matching Brackets.pdb

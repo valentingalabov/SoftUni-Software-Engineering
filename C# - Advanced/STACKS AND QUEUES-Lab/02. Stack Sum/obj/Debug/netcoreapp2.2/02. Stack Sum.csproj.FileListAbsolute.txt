@@ -1,0 +1,11 @@
+C:\Users\Valio\02. Stack Sum\bin\Debug\netcoreapp2.2\02. Stack Sum.deps.json
+C:\Users\Valio\02. Stack Sum\bin\Debug\netcoreapp2.2\02. Stack Sum.runtimeconfig.json
+C:\Users\Valio\02. Stack Sum\bin\Debug\netcoreapp2.2\02. Stack Sum.runtimeconfig.dev.json
+C:\Users\Valio\02. Stack Sum\bin\Debug\netcoreapp2.2\02. Stack Sum.dll
+C:\Users\Valio\02. Stack Sum\bin\Debug\netcoreapp2.2\02. Stack Sum.pdb
+C:\Users\Valio\02. Stack Sum\obj\Debug\netcoreapp2.2\02. Stack Sum.csprojAssemblyReference.cache
+C:\Users\Valio\02. Stack Sum\obj\Debug\netcoreapp2.2\02. Stack Sum.csproj.CoreCompileInputs.cache
+C:\Users\Valio\02. Stack Sum\obj\Debug\netcoreapp2.2\02. Stack Sum.AssemblyInfoInputs.cache
+C:\Users\Valio\02. Stack Sum\obj\Debug\netcoreapp2.2\02. Stack Sum.AssemblyInfo.cs
+C:\Users\Valio\02. Stack Sum\obj\Debug\netcoreapp2.2\02. Stack Sum.dll
+C:\Users\Valio\02. Stack Sum\obj\Debug\netcoreapp2.2\02. Stack Sum.pdb

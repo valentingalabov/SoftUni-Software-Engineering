@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Valio\\Desktop\\Traffic Jam\\Traffic Jam.csproj",
+      "projectUniqueName": "C:\\Users\\Valio\\Desktop\\Soft Uni - Software Engineering\\C# - Advanced\\STACKS AND QUEUES-Lab\\08. Traffic Jam\\Traffic Jam.csproj",
       "projectName": "Traffic Jam",
-      "projectPath": "C:\\Users\\Valio\\Desktop\\Traffic Jam\\Traffic Jam.csproj",
+      "projectPath": "C:\\Users\\Valio\\Desktop\\Soft Uni - Software Engineering\\C# - Advanced\\STACKS AND QUEUES-Lab\\08. Traffic Jam\\Traffic Jam.csproj",
       "packagesPath": "C:\\Users\\Valio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Valio\\Desktop\\Traffic Jam\\obj\\",
+      "outputPath": "C:\\Users\\Valio\\Desktop\\Soft Uni - Software Engineering\\C# - Advanced\\STACKS AND QUEUES-Lab\\08. Traffic Jam\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

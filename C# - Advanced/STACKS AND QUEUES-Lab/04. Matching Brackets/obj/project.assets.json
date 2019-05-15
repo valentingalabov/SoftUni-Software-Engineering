@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Valio\\Desktop\\MAtching Brackets\\MAtching Brackets.csproj",
-      "projectName": "MAtching Brackets",
-      "projectPath": "C:\\Users\\Valio\\Desktop\\MAtching Brackets\\MAtching Brackets.csproj",
+      "projectUniqueName": "C:\\Users\\Valio\\Desktop\\Soft Uni - Software Engineering\\C# - Advanced\\STACKS AND QUEUES-Lab\\04. Matching Brackets\\Matching Brackets.csproj",
+      "projectName": "Matching Brackets",
+      "projectPath": "C:\\Users\\Valio\\Desktop\\Soft Uni - Software Engineering\\C# - Advanced\\STACKS AND QUEUES-Lab\\04. Matching Brackets\\Matching Brackets.csproj",
       "packagesPath": "C:\\Users\\Valio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Valio\\Desktop\\MAtching Brackets\\obj\\",
+      "outputPath": "C:\\Users\\Valio\\Desktop\\Soft Uni - Software Engineering\\C# - Advanced\\STACKS AND QUEUES-Lab\\04. Matching Brackets\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
