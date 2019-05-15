@@ -1,0 +1,10 @@
+C:\Users\Valio\Desktop\HotPotatoes\bin\Debug\netcoreapp2.2\HotPotatoes.deps.json
+C:\Users\Valio\Desktop\HotPotatoes\bin\Debug\netcoreapp2.2\HotPotatoes.runtimeconfig.json
+C:\Users\Valio\Desktop\HotPotatoes\bin\Debug\netcoreapp2.2\HotPotatoes.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\HotPotatoes\bin\Debug\netcoreapp2.2\HotPotatoes.dll
+C:\Users\Valio\Desktop\HotPotatoes\bin\Debug\netcoreapp2.2\HotPotatoes.pdb
+C:\Users\Valio\Desktop\HotPotatoes\obj\Debug\netcoreapp2.2\HotPotatoes.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\HotPotatoes\obj\Debug\netcoreapp2.2\HotPotatoes.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\HotPotatoes\obj\Debug\netcoreapp2.2\HotPotatoes.AssemblyInfo.cs
+C:\Users\Valio\Desktop\HotPotatoes\obj\Debug\netcoreapp2.2\HotPotatoes.dll
+C:\Users\Valio\Desktop\HotPotatoes\obj\Debug\netcoreapp2.2\HotPotatoes.pdb

@@ -1,0 +1,10 @@
+C:\Users\Valio\Desktop\Traffic Jam\bin\Debug\netcoreapp2.2\Traffic Jam.deps.json
+C:\Users\Valio\Desktop\Traffic Jam\bin\Debug\netcoreapp2.2\Traffic Jam.runtimeconfig.json
+C:\Users\Valio\Desktop\Traffic Jam\bin\Debug\netcoreapp2.2\Traffic Jam.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\Traffic Jam\bin\Debug\netcoreapp2.2\Traffic Jam.dll
+C:\Users\Valio\Desktop\Traffic Jam\bin\Debug\netcoreapp2.2\Traffic Jam.pdb
+C:\Users\Valio\Desktop\Traffic Jam\obj\Debug\netcoreapp2.2\Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\Traffic Jam\obj\Debug\netcoreapp2.2\Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\Traffic Jam\obj\Debug\netcoreapp2.2\Traffic Jam.AssemblyInfo.cs
+C:\Users\Valio\Desktop\Traffic Jam\obj\Debug\netcoreapp2.2\Traffic Jam.dll
+C:\Users\Valio\Desktop\Traffic Jam\obj\Debug\netcoreapp2.2\Traffic Jam.pdb
