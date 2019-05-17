@@ -1,0 +1,10 @@
+C:\Users\Valio\Desktop\04. Fast Food\bin\Debug\netcoreapp2.2\04. Fast Food.deps.json
+C:\Users\Valio\Desktop\04. Fast Food\bin\Debug\netcoreapp2.2\04. Fast Food.runtimeconfig.json
+C:\Users\Valio\Desktop\04. Fast Food\bin\Debug\netcoreapp2.2\04. Fast Food.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\04. Fast Food\bin\Debug\netcoreapp2.2\04. Fast Food.dll
+C:\Users\Valio\Desktop\04. Fast Food\bin\Debug\netcoreapp2.2\04. Fast Food.pdb
+C:\Users\Valio\Desktop\04. Fast Food\obj\Debug\netcoreapp2.2\04. Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\04. Fast Food\obj\Debug\netcoreapp2.2\04. Fast Food.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\04. Fast Food\obj\Debug\netcoreapp2.2\04. Fast Food.AssemblyInfo.cs
+C:\Users\Valio\Desktop\04. Fast Food\obj\Debug\netcoreapp2.2\04. Fast Food.dll
+C:\Users\Valio\Desktop\04. Fast Food\obj\Debug\netcoreapp2.2\04. Fast Food.pdb
