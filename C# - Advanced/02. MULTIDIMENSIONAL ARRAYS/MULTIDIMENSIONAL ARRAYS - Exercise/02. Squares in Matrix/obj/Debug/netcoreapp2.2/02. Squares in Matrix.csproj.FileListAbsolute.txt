@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\02. MULTIDIMENSIONAL ARRAYS\MULTIDIMENSIONAL ARRAYS - Exercise\02. Squares in Matrix\bin\Debug\netcoreapp2.2\02. Squares in Matrix.deps.json
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\02. MULTIDIMENSIONAL ARRAYS\MULTIDIMENSIONAL ARRAYS - Exercise\02. Squares in Matrix\bin\Debug\netcoreapp2.2\02. Squares in Matrix.runtimeconfig.json
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\02. MULTIDIMENSIONAL ARRAYS\MULTIDIMENSIONAL ARRAYS - Exercise\02. Squares in Matrix\bin\Debug\netcoreapp2.2\02. Squares in Matrix.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\02. MULTIDIMENSIONAL ARRAYS\MULTIDIMENSIONAL ARRAYS - Exercise\02. Squares in Matrix\bin\Debug\netcoreapp2.2\02. Squares in Matrix.dll
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\02. MULTIDIMENSIONAL ARRAYS\MULTIDIMENSIONAL ARRAYS - Exercise\02. Squares in Matrix\bin\Debug\netcoreapp2.2\02. Squares in Matrix.pdb
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\02. MULTIDIMENSIONAL ARRAYS\MULTIDIMENSIONAL ARRAYS - Exercise\02. Squares in Matrix\obj\Debug\netcoreapp2.2\02. Squares in Matrix.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\02. MULTIDIMENSIONAL ARRAYS\MULTIDIMENSIONAL ARRAYS - Exercise\02. Squares in Matrix\obj\Debug\netcoreapp2.2\02. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\02. MULTIDIMENSIONAL ARRAYS\MULTIDIMENSIONAL ARRAYS - Exercise\02. Squares in Matrix\obj\Debug\netcoreapp2.2\02. Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\02. MULTIDIMENSIONAL ARRAYS\MULTIDIMENSIONAL ARRAYS - Exercise\02. Squares in Matrix\obj\Debug\netcoreapp2.2\02. Squares in Matrix.AssemblyInfo.cs
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\02. MULTIDIMENSIONAL ARRAYS\MULTIDIMENSIONAL ARRAYS - Exercise\02. Squares in Matrix\obj\Debug\netcoreapp2.2\02. Squares in Matrix.dll
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\02. MULTIDIMENSIONAL ARRAYS\MULTIDIMENSIONAL ARRAYS - Exercise\02. Squares in Matrix\obj\Debug\netcoreapp2.2\02. Squares in Matrix.pdb
