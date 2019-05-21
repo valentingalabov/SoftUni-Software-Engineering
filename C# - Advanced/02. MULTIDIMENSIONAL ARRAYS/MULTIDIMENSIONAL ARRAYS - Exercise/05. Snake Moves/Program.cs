@@ -7,34 +7,39 @@ namespace _05._Snake_Moves
     {
         static void Main(string[] args)
         {
-            int[] size = Console.ReadLine()
+            int[] dimension = Console.ReadLine()
                 .Split(" ", StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse).ToArray();
-            int rows = size[0];
-            int cols = size[1];
+            int rows = dimension[0];
+            int cols = dimension[1];
 
-            char[] snake = Console.ReadLine().ToCharArray();
+            char[,] matrix = new char[rows, cols];
+            string snake = Console.ReadLine();
 
-            char[][] snakePath = new char[rows][];
+            int counter = 0;
 
-            for (int i = 0; i < rows; i++)
+            for (int row = 0; row < matrix.GetLength(0); row++)
             {
-                if (snake.Length==cols)
+                for (int col = 0; col < matrix.GetLength(1); col++)
                 {
-                    snakePath[i]=snake;
-                }
-                else if (snake.Length<cols)
-                {
-                   int toAdd= snake.Length - cols;
-                    for (int j = 0; j < toAdd; j++)
+
+                    if (counter >= snake.Length)
                     {
-                        snake[i] = snake[j];
+                        counter = 0;
                     }
+
+                    matrix[row, col] = snake[counter++];
+
                 }
-                
             }
-
-
+            for (int row = 0; row < matrix.GetLength(0); row++)
+            {
+                for (int col = 0; col < matrix.GetLength(1); col++)
+                {
+                    Console.Write(matrix[row,col]);
+                }
+                Console.WriteLine();
+            }
 
         }
     }
