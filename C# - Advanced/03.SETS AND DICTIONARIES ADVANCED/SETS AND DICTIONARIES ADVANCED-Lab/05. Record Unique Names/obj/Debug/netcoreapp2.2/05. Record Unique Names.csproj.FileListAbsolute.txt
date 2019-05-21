@@ -1,0 +1,11 @@
+C:\Users\Valio\05. Record Unique Names\bin\Debug\netcoreapp2.2\05. Record Unique Names.deps.json
+C:\Users\Valio\05. Record Unique Names\bin\Debug\netcoreapp2.2\05. Record Unique Names.runtimeconfig.json
+C:\Users\Valio\05. Record Unique Names\bin\Debug\netcoreapp2.2\05. Record Unique Names.runtimeconfig.dev.json
+C:\Users\Valio\05. Record Unique Names\bin\Debug\netcoreapp2.2\05. Record Unique Names.dll
+C:\Users\Valio\05. Record Unique Names\bin\Debug\netcoreapp2.2\05. Record Unique Names.pdb
+C:\Users\Valio\05. Record Unique Names\obj\Debug\netcoreapp2.2\05. Record Unique Names.csprojAssemblyReference.cache
+C:\Users\Valio\05. Record Unique Names\obj\Debug\netcoreapp2.2\05. Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\Valio\05. Record Unique Names\obj\Debug\netcoreapp2.2\05. Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\Valio\05. Record Unique Names\obj\Debug\netcoreapp2.2\05. Record Unique Names.AssemblyInfo.cs
+C:\Users\Valio\05. Record Unique Names\obj\Debug\netcoreapp2.2\05. Record Unique Names.dll
+C:\Users\Valio\05. Record Unique Names\obj\Debug\netcoreapp2.2\05. Record Unique Names.pdb

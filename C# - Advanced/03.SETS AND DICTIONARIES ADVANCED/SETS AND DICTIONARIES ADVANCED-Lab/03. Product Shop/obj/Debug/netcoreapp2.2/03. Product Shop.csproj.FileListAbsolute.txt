@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\03.SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED-Lab\03. Product Shop\bin\Debug\netcoreapp2.2\03. Product Shop.deps.json
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\03.SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED-Lab\03. Product Shop\bin\Debug\netcoreapp2.2\03. Product Shop.runtimeconfig.json
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\03.SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED-Lab\03. Product Shop\bin\Debug\netcoreapp2.2\03. Product Shop.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\03.SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED-Lab\03. Product Shop\bin\Debug\netcoreapp2.2\03. Product Shop.dll
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\03.SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED-Lab\03. Product Shop\bin\Debug\netcoreapp2.2\03. Product Shop.pdb
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\03.SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED-Lab\03. Product Shop\obj\Debug\netcoreapp2.2\03. Product Shop.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\03.SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED-Lab\03. Product Shop\obj\Debug\netcoreapp2.2\03. Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\03.SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED-Lab\03. Product Shop\obj\Debug\netcoreapp2.2\03. Product Shop.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\03.SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED-Lab\03. Product Shop\obj\Debug\netcoreapp2.2\03. Product Shop.AssemblyInfo.cs
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\03.SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED-Lab\03. Product Shop\obj\Debug\netcoreapp2.2\03. Product Shop.dll
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\03.SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED-Lab\03. Product Shop\obj\Debug\netcoreapp2.2\03. Product Shop.pdb

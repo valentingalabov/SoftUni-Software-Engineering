@@ -1,0 +1,10 @@
+C:\Users\Valio\Desktop\07. SoftUni Party\bin\Debug\netcoreapp2.2\07. SoftUni Party.deps.json
+C:\Users\Valio\Desktop\07. SoftUni Party\bin\Debug\netcoreapp2.2\07. SoftUni Party.runtimeconfig.json
+C:\Users\Valio\Desktop\07. SoftUni Party\bin\Debug\netcoreapp2.2\07. SoftUni Party.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\07. SoftUni Party\bin\Debug\netcoreapp2.2\07. SoftUni Party.dll
+C:\Users\Valio\Desktop\07. SoftUni Party\bin\Debug\netcoreapp2.2\07. SoftUni Party.pdb
+C:\Users\Valio\Desktop\07. SoftUni Party\obj\Debug\netcoreapp2.2\07. SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\07. SoftUni Party\obj\Debug\netcoreapp2.2\07. SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\07. SoftUni Party\obj\Debug\netcoreapp2.2\07. SoftUni Party.AssemblyInfo.cs
+C:\Users\Valio\Desktop\07. SoftUni Party\obj\Debug\netcoreapp2.2\07. SoftUni Party.dll
+C:\Users\Valio\Desktop\07. SoftUni Party\obj\Debug\netcoreapp2.2\07. SoftUni Party.pdb
