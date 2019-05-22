@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\04. Even Times\bin\Debug\netcoreapp2.2\04. Even Times.deps.json
+C:\Users\Valio\Desktop\04. Even Times\bin\Debug\netcoreapp2.2\04. Even Times.runtimeconfig.json
+C:\Users\Valio\Desktop\04. Even Times\bin\Debug\netcoreapp2.2\04. Even Times.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\04. Even Times\bin\Debug\netcoreapp2.2\04. Even Times.dll
+C:\Users\Valio\Desktop\04. Even Times\bin\Debug\netcoreapp2.2\04. Even Times.pdb
+C:\Users\Valio\Desktop\04. Even Times\obj\Debug\netcoreapp2.2\04. Even Times.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\04. Even Times\obj\Debug\netcoreapp2.2\04. Even Times.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\04. Even Times\obj\Debug\netcoreapp2.2\04. Even Times.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\04. Even Times\obj\Debug\netcoreapp2.2\04. Even Times.AssemblyInfo.cs
+C:\Users\Valio\Desktop\04. Even Times\obj\Debug\netcoreapp2.2\04. Even Times.dll
+C:\Users\Valio\Desktop\04. Even Times\obj\Debug\netcoreapp2.2\04. Even Times.pdb

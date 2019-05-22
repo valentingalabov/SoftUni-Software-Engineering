@@ -1,0 +1,10 @@
+C:\Users\Valio\Desktop\03. Periodic Table\bin\Debug\netcoreapp2.2\03. Periodic Table.deps.json
+C:\Users\Valio\Desktop\03. Periodic Table\bin\Debug\netcoreapp2.2\03. Periodic Table.runtimeconfig.json
+C:\Users\Valio\Desktop\03. Periodic Table\bin\Debug\netcoreapp2.2\03. Periodic Table.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\03. Periodic Table\bin\Debug\netcoreapp2.2\03. Periodic Table.dll
+C:\Users\Valio\Desktop\03. Periodic Table\bin\Debug\netcoreapp2.2\03. Periodic Table.pdb
+C:\Users\Valio\Desktop\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.AssemblyInfo.cs
+C:\Users\Valio\Desktop\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.dll
+C:\Users\Valio\Desktop\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.pdb

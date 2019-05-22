@@ -1,0 +1,11 @@
+C:\Users\Valio\01. Unique Usernames\bin\Debug\netcoreapp2.2\01. Unique Usernames.deps.json
+C:\Users\Valio\01. Unique Usernames\bin\Debug\netcoreapp2.2\01. Unique Usernames.runtimeconfig.json
+C:\Users\Valio\01. Unique Usernames\bin\Debug\netcoreapp2.2\01. Unique Usernames.runtimeconfig.dev.json
+C:\Users\Valio\01. Unique Usernames\bin\Debug\netcoreapp2.2\01. Unique Usernames.dll
+C:\Users\Valio\01. Unique Usernames\bin\Debug\netcoreapp2.2\01. Unique Usernames.pdb
+C:\Users\Valio\01. Unique Usernames\obj\Debug\netcoreapp2.2\01. Unique Usernames.csprojAssemblyReference.cache
+C:\Users\Valio\01. Unique Usernames\obj\Debug\netcoreapp2.2\01. Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\Valio\01. Unique Usernames\obj\Debug\netcoreapp2.2\01. Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\Valio\01. Unique Usernames\obj\Debug\netcoreapp2.2\01. Unique Usernames.AssemblyInfo.cs
+C:\Users\Valio\01. Unique Usernames\obj\Debug\netcoreapp2.2\01. Unique Usernames.dll
+C:\Users\Valio\01. Unique Usernames\obj\Debug\netcoreapp2.2\01. Unique Usernames.pdb
