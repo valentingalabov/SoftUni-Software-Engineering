@@ -1,0 +1,12 @@
+C:\Users\Valio\Desktop\Streams, Files and Directories\04. Copy Binary File\obj\Debug\netcoreapp2.2\04. Copy Binary File.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\Streams, Files and Directories\04. Copy Binary File\obj\Debug\netcoreapp2.2\04. Copy Binary File.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\Streams, Files and Directories\04. Copy Binary File\obj\Debug\netcoreapp2.2\04. Copy Binary File.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\Streams, Files and Directories\04. Copy Binary File\obj\Debug\netcoreapp2.2\04. Copy Binary File.AssemblyInfo.cs
+C:\Users\Valio\Desktop\Streams, Files and Directories\04. Copy Binary File\bin\Debug\netcoreapp2.2\copyMe.png
+C:\Users\Valio\Desktop\Streams, Files and Directories\04. Copy Binary File\bin\Debug\netcoreapp2.2\04. Copy Binary File.deps.json
+C:\Users\Valio\Desktop\Streams, Files and Directories\04. Copy Binary File\bin\Debug\netcoreapp2.2\04. Copy Binary File.runtimeconfig.json
+C:\Users\Valio\Desktop\Streams, Files and Directories\04. Copy Binary File\bin\Debug\netcoreapp2.2\04. Copy Binary File.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\Streams, Files and Directories\04. Copy Binary File\bin\Debug\netcoreapp2.2\04. Copy Binary File.dll
+C:\Users\Valio\Desktop\Streams, Files and Directories\04. Copy Binary File\bin\Debug\netcoreapp2.2\04. Copy Binary File.pdb
+C:\Users\Valio\Desktop\Streams, Files and Directories\04. Copy Binary File\obj\Debug\netcoreapp2.2\04. Copy Binary File.dll
+C:\Users\Valio\Desktop\Streams, Files and Directories\04. Copy Binary File\obj\Debug\netcoreapp2.2\04. Copy Binary File.pdb

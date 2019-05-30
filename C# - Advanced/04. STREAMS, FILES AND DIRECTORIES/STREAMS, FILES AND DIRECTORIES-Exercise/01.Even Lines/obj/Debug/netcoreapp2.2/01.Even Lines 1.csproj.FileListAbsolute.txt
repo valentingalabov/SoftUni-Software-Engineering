@@ -1,0 +1,24 @@
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines 1\bin\Debug\netcoreapp2.2\01.Even Lines 1.deps.json
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines 1\bin\Debug\netcoreapp2.2\01.Even Lines 1.runtimeconfig.json
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines 1\bin\Debug\netcoreapp2.2\01.Even Lines 1.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines 1\bin\Debug\netcoreapp2.2\01.Even Lines 1.dll
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines 1\bin\Debug\netcoreapp2.2\01.Even Lines 1.pdb
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines 1\obj\Debug\netcoreapp2.2\01.Even Lines 1.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines 1\obj\Debug\netcoreapp2.2\01.Even Lines 1.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines 1\obj\Debug\netcoreapp2.2\01.Even Lines 1.AssemblyInfo.cs
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines 1\obj\Debug\netcoreapp2.2\01.Even Lines 1.dll
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines 1\obj\Debug\netcoreapp2.2\01.Even Lines 1.pdb
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines 1\bin\Debug\netcoreapp2.2\text.txt
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines 1\obj\Debug\netcoreapp2.2\01.Even Lines 1.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines\bin\Debug\netcoreapp2.2\text.txt
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines\bin\Debug\netcoreapp2.2\01.Even Lines 1.deps.json
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines\bin\Debug\netcoreapp2.2\01.Even Lines 1.runtimeconfig.json
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines\bin\Debug\netcoreapp2.2\01.Even Lines 1.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines\bin\Debug\netcoreapp2.2\01.Even Lines 1.dll
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines\bin\Debug\netcoreapp2.2\01.Even Lines 1.pdb
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines\obj\Debug\netcoreapp2.2\01.Even Lines 1.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines\obj\Debug\netcoreapp2.2\01.Even Lines 1.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines\obj\Debug\netcoreapp2.2\01.Even Lines 1.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines\obj\Debug\netcoreapp2.2\01.Even Lines 1.AssemblyInfo.cs
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines\obj\Debug\netcoreapp2.2\01.Even Lines 1.dll
+C:\Users\Valio\Desktop\Streams, Files and Directories\01.Even Lines\obj\Debug\netcoreapp2.2\01.Even Lines 1.pdb
