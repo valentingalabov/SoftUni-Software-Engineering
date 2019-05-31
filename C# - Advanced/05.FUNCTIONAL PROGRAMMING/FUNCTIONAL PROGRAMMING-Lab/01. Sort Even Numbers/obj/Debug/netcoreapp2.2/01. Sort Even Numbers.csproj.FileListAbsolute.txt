@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\FUNCTIONAL PROGRAMMING\01. Sort Even Numbers\bin\Debug\netcoreapp2.2\01. Sort Even Numbers.deps.json
+C:\Users\Valio\Desktop\FUNCTIONAL PROGRAMMING\01. Sort Even Numbers\bin\Debug\netcoreapp2.2\01. Sort Even Numbers.runtimeconfig.json
+C:\Users\Valio\Desktop\FUNCTIONAL PROGRAMMING\01. Sort Even Numbers\bin\Debug\netcoreapp2.2\01. Sort Even Numbers.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\FUNCTIONAL PROGRAMMING\01. Sort Even Numbers\bin\Debug\netcoreapp2.2\01. Sort Even Numbers.dll
+C:\Users\Valio\Desktop\FUNCTIONAL PROGRAMMING\01. Sort Even Numbers\bin\Debug\netcoreapp2.2\01. Sort Even Numbers.pdb
+C:\Users\Valio\Desktop\FUNCTIONAL PROGRAMMING\01. Sort Even Numbers\obj\Debug\netcoreapp2.2\01. Sort Even Numbers.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\FUNCTIONAL PROGRAMMING\01. Sort Even Numbers\obj\Debug\netcoreapp2.2\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\FUNCTIONAL PROGRAMMING\01. Sort Even Numbers\obj\Debug\netcoreapp2.2\01. Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\FUNCTIONAL PROGRAMMING\01. Sort Even Numbers\obj\Debug\netcoreapp2.2\01. Sort Even Numbers.AssemblyInfo.cs
+C:\Users\Valio\Desktop\FUNCTIONAL PROGRAMMING\01. Sort Even Numbers\obj\Debug\netcoreapp2.2\01. Sort Even Numbers.dll
+C:\Users\Valio\Desktop\FUNCTIONAL PROGRAMMING\01. Sort Even Numbers\obj\Debug\netcoreapp2.2\01. Sort Even Numbers.pdb
