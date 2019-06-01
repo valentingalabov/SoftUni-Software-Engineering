@@ -8,14 +8,18 @@ namespace _02._Sum_Numbers
         static void Main(string[] args)
         {
             int[] numbers = Console.ReadLine()
-                .Split(", ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse)
+                .Split(", ", StringSplitOptions.RemoveEmptyEntries)
+                .Select(Parse)
                 .ToArray();
 
-            Console.WriteLine(numbers.Length);
+            Console.WriteLine(numbers.Count());
             Console.WriteLine(numbers.Sum());
 
 
 
         }
+
+       public static Func<string, int> Parse = n => int.Parse(n);
+
     }
 }
