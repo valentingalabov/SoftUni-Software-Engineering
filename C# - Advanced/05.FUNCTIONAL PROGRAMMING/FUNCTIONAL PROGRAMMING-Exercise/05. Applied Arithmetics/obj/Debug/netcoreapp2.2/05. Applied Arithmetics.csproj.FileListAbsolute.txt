@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05. Applied Arithmetics\bin\Debug\netcoreapp2.2\05. Applied Arithmetics.deps.json
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05. Applied Arithmetics\bin\Debug\netcoreapp2.2\05. Applied Arithmetics.runtimeconfig.json
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05. Applied Arithmetics\bin\Debug\netcoreapp2.2\05. Applied Arithmetics.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05. Applied Arithmetics\bin\Debug\netcoreapp2.2\05. Applied Arithmetics.dll
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05. Applied Arithmetics\bin\Debug\netcoreapp2.2\05. Applied Arithmetics.pdb
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05. Applied Arithmetics\obj\Debug\netcoreapp2.2\05. Applied Arithmetics.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05. Applied Arithmetics\obj\Debug\netcoreapp2.2\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05. Applied Arithmetics\obj\Debug\netcoreapp2.2\05. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05. Applied Arithmetics\obj\Debug\netcoreapp2.2\05. Applied Arithmetics.AssemblyInfo.cs
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05. Applied Arithmetics\obj\Debug\netcoreapp2.2\05. Applied Arithmetics.dll
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05. Applied Arithmetics\obj\Debug\netcoreapp2.2\05. Applied Arithmetics.pdb

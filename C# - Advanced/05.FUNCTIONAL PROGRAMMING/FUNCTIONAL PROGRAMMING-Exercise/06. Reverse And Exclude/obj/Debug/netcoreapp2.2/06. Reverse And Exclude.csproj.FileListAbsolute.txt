@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\06. Reverse And Exclude\bin\Debug\netcoreapp2.2\06. Reverse And Exclude.deps.json
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\06. Reverse And Exclude\bin\Debug\netcoreapp2.2\06. Reverse And Exclude.runtimeconfig.json
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\06. Reverse And Exclude\bin\Debug\netcoreapp2.2\06. Reverse And Exclude.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\06. Reverse And Exclude\bin\Debug\netcoreapp2.2\06. Reverse And Exclude.dll
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\06. Reverse And Exclude\bin\Debug\netcoreapp2.2\06. Reverse And Exclude.pdb
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\06. Reverse And Exclude\obj\Debug\netcoreapp2.2\06. Reverse And Exclude.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\06. Reverse And Exclude\obj\Debug\netcoreapp2.2\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\06. Reverse And Exclude\obj\Debug\netcoreapp2.2\06. Reverse And Exclude.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\06. Reverse And Exclude\obj\Debug\netcoreapp2.2\06. Reverse And Exclude.AssemblyInfo.cs
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\06. Reverse And Exclude\obj\Debug\netcoreapp2.2\06. Reverse And Exclude.dll
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\06. Reverse And Exclude\obj\Debug\netcoreapp2.2\06. Reverse And Exclude.pdb

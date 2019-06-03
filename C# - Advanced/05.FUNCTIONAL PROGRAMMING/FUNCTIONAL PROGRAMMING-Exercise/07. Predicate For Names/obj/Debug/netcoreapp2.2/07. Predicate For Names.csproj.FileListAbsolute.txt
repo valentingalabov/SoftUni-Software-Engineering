@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\07. Predicate For Names\bin\Debug\netcoreapp2.2\07. Predicate For Names.deps.json
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\07. Predicate For Names\bin\Debug\netcoreapp2.2\07. Predicate For Names.runtimeconfig.json
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\07. Predicate For Names\bin\Debug\netcoreapp2.2\07. Predicate For Names.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\07. Predicate For Names\bin\Debug\netcoreapp2.2\07. Predicate For Names.dll
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\07. Predicate For Names\bin\Debug\netcoreapp2.2\07. Predicate For Names.pdb
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\07. Predicate For Names\obj\Debug\netcoreapp2.2\07. Predicate For Names.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\07. Predicate For Names\obj\Debug\netcoreapp2.2\07. Predicate For Names.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\07. Predicate For Names\obj\Debug\netcoreapp2.2\07. Predicate For Names.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\07. Predicate For Names\obj\Debug\netcoreapp2.2\07. Predicate For Names.AssemblyInfo.cs
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\07. Predicate For Names\obj\Debug\netcoreapp2.2\07. Predicate For Names.dll
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\07. Predicate For Names\obj\Debug\netcoreapp2.2\07. Predicate For Names.pdb
