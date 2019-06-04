@@ -12,9 +12,6 @@ namespace _10._Predicate_Party_
 
             string command = string.Empty;
 
-            List<string> namesToAdd = new List<string>();
-            
-
             Func<string, int, bool> lengthFilter = (name, length) => name.Length == length;
             Func<string, string, bool> startWithFilter = (name, param) => name.StartsWith(param);
             Func<string, string, bool> endsWithFilter = (name, param) => name.EndsWith(param);
