@@ -1,0 +1,10 @@
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\03.Car Constructors\bin\Debug\netcoreapp2.2\03.Car Constructors.deps.json
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\03.Car Constructors\bin\Debug\netcoreapp2.2\03.Car Constructors.runtimeconfig.json
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\03.Car Constructors\bin\Debug\netcoreapp2.2\03.Car Constructors.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\03.Car Constructors\bin\Debug\netcoreapp2.2\03.Car Constructors.dll
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\03.Car Constructors\bin\Debug\netcoreapp2.2\03.Car Constructors.pdb
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\03.Car Constructors\obj\Debug\netcoreapp2.2\03.Car Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\03.Car Constructors\obj\Debug\netcoreapp2.2\03.Car Constructors.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\03.Car Constructors\obj\Debug\netcoreapp2.2\03.Car Constructors.AssemblyInfo.cs
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\03.Car Constructors\obj\Debug\netcoreapp2.2\03.Car Constructors.dll
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\03.Car Constructors\obj\Debug\netcoreapp2.2\03.Car Constructors.pdb

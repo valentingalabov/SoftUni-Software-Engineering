@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Valio\\Desktop\\EXERCISE FUNCTIONAL PROGRAMMINGa\\01. Car\\01. Car.csproj",
-      "projectName": "01. Car",
-      "projectPath": "C:\\Users\\Valio\\Desktop\\EXERCISE FUNCTIONAL PROGRAMMINGa\\01. Car\\01. Car.csproj",
+      "projectUniqueName": "C:\\Users\\Valio\\Desktop\\EXERCISE FUNCTIONAL PROGRAMMINGa\\04. Car Engine And Tires\\04. Car Engine And Tires.csproj",
+      "projectName": "04. Car Engine And Tires",
+      "projectPath": "C:\\Users\\Valio\\Desktop\\EXERCISE FUNCTIONAL PROGRAMMINGa\\04. Car Engine And Tires\\04. Car Engine And Tires.csproj",
       "packagesPath": "C:\\Users\\Valio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Valio\\Desktop\\EXERCISE FUNCTIONAL PROGRAMMINGa\\01. Car\\obj\\",
+      "outputPath": "C:\\Users\\Valio\\Desktop\\EXERCISE FUNCTIONAL PROGRAMMINGa\\04. Car Engine And Tires\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

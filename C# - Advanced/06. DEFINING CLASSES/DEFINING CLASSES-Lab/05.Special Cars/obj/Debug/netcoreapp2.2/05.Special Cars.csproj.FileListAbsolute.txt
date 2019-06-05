@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05.Special Cars\bin\Debug\netcoreapp2.2\05.Special Cars.deps.json
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05.Special Cars\bin\Debug\netcoreapp2.2\05.Special Cars.runtimeconfig.json
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05.Special Cars\bin\Debug\netcoreapp2.2\05.Special Cars.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05.Special Cars\bin\Debug\netcoreapp2.2\05.Special Cars.dll
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05.Special Cars\bin\Debug\netcoreapp2.2\05.Special Cars.pdb
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05.Special Cars\obj\Debug\netcoreapp2.2\05.Special Cars.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05.Special Cars\obj\Debug\netcoreapp2.2\05.Special Cars.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05.Special Cars\obj\Debug\netcoreapp2.2\05.Special Cars.AssemblyInfo.cs
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05.Special Cars\obj\Debug\netcoreapp2.2\05.Special Cars.dll
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05.Special Cars\obj\Debug\netcoreapp2.2\05.Special Cars.pdb
+C:\Users\Valio\Desktop\EXERCISE FUNCTIONAL PROGRAMMINGa\05.Special Cars\obj\Debug\netcoreapp2.2\05.Special Cars.csprojAssemblyReference.cache

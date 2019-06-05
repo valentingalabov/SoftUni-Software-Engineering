@@ -1,6 +1,7 @@
-﻿using System;
+﻿
+using System;
 
-namespace _01._Car
+namespace _02._Car_Extension
 {
     class Program
     {
@@ -10,8 +11,11 @@ namespace _01._Car
             car.Make = "VW";
             car.Model = "MK3";
             car.Year = 1992;
+            car.FuelQuantity = 22;
+            car.FuelConsumption =10;
+            car.Drive(200.00);
 
-            Console.WriteLine($"Make: {car.Make}\nModel: {car.Model}\nYear: {car.Year}");
+            Console.WriteLine(car.WhoAmI());
 
         }
     }
