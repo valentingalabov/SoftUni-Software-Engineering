@@ -1,0 +1,10 @@
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\02. Creating Constructors\bin\Debug\netcoreapp2.1\02. Creating Constructors.deps.json
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\02. Creating Constructors\bin\Debug\netcoreapp2.1\02. Creating Constructors.runtimeconfig.json
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\02. Creating Constructors\bin\Debug\netcoreapp2.1\02. Creating Constructors.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\02. Creating Constructors\bin\Debug\netcoreapp2.1\02. Creating Constructors.dll
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\02. Creating Constructors\bin\Debug\netcoreapp2.1\02. Creating Constructors.pdb
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.AssemblyInfo.cs
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.dll
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.pdb

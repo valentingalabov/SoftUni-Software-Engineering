@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\01. Define a Class Person\bin\Debug\netcoreapp2.1\01. Define a Class Person.deps.json
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\01. Define a Class Person\bin\Debug\netcoreapp2.1\01. Define a Class Person.runtimeconfig.json
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\01. Define a Class Person\bin\Debug\netcoreapp2.1\01. Define a Class Person.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\01. Define a Class Person\bin\Debug\netcoreapp2.1\01. Define a Class Person.dll
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\01. Define a Class Person\bin\Debug\netcoreapp2.1\01. Define a Class Person.pdb
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\01. Define a Class Person\obj\Debug\netcoreapp2.1\01. Define a Class Person.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\01. Define a Class Person\obj\Debug\netcoreapp2.1\01. Define a Class Person.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\01. Define a Class Person\obj\Debug\netcoreapp2.1\01. Define a Class Person.AssemblyInfo.cs
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\01. Define a Class Person\obj\Debug\netcoreapp2.1\01. Define a Class Person.dll
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\01. Define a Class Person\obj\Debug\netcoreapp2.1\01. Define a Class Person.pdb
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\01. Define a Class Person\obj\Debug\netcoreapp2.1\01. Define a Class Person.csprojAssemblyReference.cache

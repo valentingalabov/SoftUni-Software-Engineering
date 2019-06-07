@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\030.Oldest Family Member\bin\Debug\netcoreapp2.1\03.Oldest Family Member.deps.json
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\030.Oldest Family Member\bin\Debug\netcoreapp2.1\03.Oldest Family Member.runtimeconfig.json
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\030.Oldest Family Member\bin\Debug\netcoreapp2.1\03.Oldest Family Member.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\030.Oldest Family Member\bin\Debug\netcoreapp2.1\03.Oldest Family Member.dll
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\030.Oldest Family Member\bin\Debug\netcoreapp2.1\03.Oldest Family Member.pdb
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\030.Oldest Family Member\obj\Debug\netcoreapp2.1\03.Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\030.Oldest Family Member\obj\Debug\netcoreapp2.1\03.Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\030.Oldest Family Member\obj\Debug\netcoreapp2.1\03.Oldest Family Member.AssemblyInfo.cs
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\030.Oldest Family Member\obj\Debug\netcoreapp2.1\03.Oldest Family Member.dll
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\030.Oldest Family Member\obj\Debug\netcoreapp2.1\03.Oldest Family Member.pdb
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\030.Oldest Family Member\obj\Debug\netcoreapp2.1\03.Oldest Family Member.csprojAssemblyReference.cache

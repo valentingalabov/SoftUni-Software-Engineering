@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\06. Speed Racing\bin\Debug\netcoreapp2.1\06. Speed Racing.deps.json
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\06. Speed Racing\bin\Debug\netcoreapp2.1\06. Speed Racing.runtimeconfig.json
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\06. Speed Racing\bin\Debug\netcoreapp2.1\06. Speed Racing.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\06. Speed Racing\bin\Debug\netcoreapp2.1\06. Speed Racing.dll
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\06. Speed Racing\bin\Debug\netcoreapp2.1\06. Speed Racing.pdb
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\06. Speed Racing\obj\Debug\netcoreapp2.1\06. Speed Racing.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\06. Speed Racing\obj\Debug\netcoreapp2.1\06. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\06. Speed Racing\obj\Debug\netcoreapp2.1\06. Speed Racing.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\06. Speed Racing\obj\Debug\netcoreapp2.1\06. Speed Racing.AssemblyInfo.cs
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\06. Speed Racing\obj\Debug\netcoreapp2.1\06. Speed Racing.dll
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\06. Speed Racing\obj\Debug\netcoreapp2.1\06. Speed Racing.pdb
