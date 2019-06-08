@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.deps.json
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.runtimeconfig.json
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.dll
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.pdb
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.AssemblyInfo.cs
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.dll
+C:\Users\Valio\Desktop\EXERCISE DEFINING CLASSES\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.pdb
