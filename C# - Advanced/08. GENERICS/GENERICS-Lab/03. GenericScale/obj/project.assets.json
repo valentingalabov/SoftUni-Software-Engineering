@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Valio\\Desktop\\Soft Uni - Software Engineering\\C# - Advanced\\07. Workshop\\Workshop-Exercise\\Custom Doubly Linked List\\Custom Doubly Linked List.csproj",
-      "projectName": "Custom Doubly Linked List",
-      "projectPath": "C:\\Users\\Valio\\Desktop\\Soft Uni - Software Engineering\\C# - Advanced\\07. Workshop\\Workshop-Exercise\\Custom Doubly Linked List\\Custom Doubly Linked List.csproj",
+      "projectUniqueName": "C:\\Users\\Valio\\Desktop\\GenericScale\\GenericScale.csproj",
+      "projectName": "GenericScale",
+      "projectPath": "C:\\Users\\Valio\\Desktop\\GenericScale\\GenericScale.csproj",
       "packagesPath": "C:\\Users\\Valio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Valio\\Desktop\\Soft Uni - Software Engineering\\C# - Advanced\\07. Workshop\\Workshop-Exercise\\Custom Doubly Linked List\\obj\\",
+      "outputPath": "C:\\Users\\Valio\\Desktop\\GenericScale\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
