@@ -8,55 +8,88 @@ namespace PokemonTrainer
     {
         public static void Main(string[] args)
         {
-            List<Trainer> pokemonTrainers = new List<Trainer>();
-            string inputLine = Console.ReadLine();
-            while (inputLine != "Tournament")
+            var trainers = new List<Trainer>();
+
+
+            string input = Console.ReadLine();
+
+            while (input != "Tournament")
             {
-                string[] tokens = inputLine
-                    .Split(new char[] { ' ', '\t', '\n' }, StringSplitOptions.RemoveEmptyEntries);
-                string trainerName = tokens[0];
-                string pokemonName = tokens[1];
-                string pokemonType = tokens[2];
-                int pokemonHealth = int.Parse(tokens[3]);
-                Trainer currentTrainer = new Trainer(trainerName);
-                Pokemon currentPokemon = new Pokemon(pokemonName, pokemonType, pokemonHealth);
-                currentTrainer.Pokemons.Add(currentPokemon);
-                bool wasAdded = false;
-                foreach (var trainer in pokemonTrainers)
+                string[] tokens = input
+                    .Split(" ", StringSplitOptions.RemoveEmptyEntries);
+
+                AddTrainerWithPokemon(trainers, tokens);
+
+                input = Console.ReadLine();
+            }
+
+            input = Console.ReadLine();
+
+            while (input != "End")
+            {
+
+                CheckElement(input, trainers);
+
+
+
+                input = Console.ReadLine();
+            }
+
+            Print(trainers);
+
+        }
+
+        private static void Print(List<Trainer> trainers)
+        {
+            foreach (var trainer in trainers.OrderByDescending(x=>x.NumberOfBadges))
+            {
+                Console.WriteLine($"{trainer.Name} {trainer.NumberOfBadges} {trainer.Pokemons.Count}");
+            }
+        }
+
+        private static void CheckElement(string element, List<Trainer> trainers)
+        {
+            foreach (var trainer in trainers)
+            {
+                if (trainer.Pokemons.Any(x => x.Element == element))
                 {
-                    if (trainer.Name == trainerName)
+                    trainer.NumberOfBadges += 1;
+                }
+                else
+                {
+                    foreach (var trainerPokemon in trainer.Pokemons)
                     {
-                        trainer.Pokemons.Add(currentPokemon);
-                        wasAdded = true;
-                        break;
+                        trainerPokemon.Helth -= 10;
                     }
                 }
-                if (!wasAdded)
-                    pokemonTrainers.Add(currentTrainer);
-                inputLine = Console.ReadLine();
             }
-            inputLine = Console.ReadLine();
-            while (inputLine != "End")
+
+            foreach (var trainer in trainers)
             {
-                string type = inputLine;
-                for (int i = 0; i < pokemonTrainers.Count; i++)
-                {
-                    Trainer currentTrainer = pokemonTrainers[i];
-                    if (currentTrainer.ContainsType(type))
-                        currentTrainer.NumberOfBadges++;
-                    else
-                    {
-                        currentTrainer.DecreaseHealth();
-                        currentTrainer.RemoveDeadPokemons();
-                    }
-                }
-                inputLine = Console.ReadLine();
+                trainer.Pokemons.RemoveAll(x => x.Helth <= 0);
             }
-            pokemonTrainers = pokemonTrainers.OrderByDescending(trainer => trainer.NumberOfBadges).ToList();
-            foreach (var trainer in pokemonTrainers)
+        }
+
+        private static void AddTrainerWithPokemon(List<Trainer> trainers, string[] tokens)
+        {
+            string trainerName = tokens[0];
+            string pokemonName = tokens[1];
+            string pokemonElement = tokens[2];
+            int pokemonHelth = int.Parse(tokens[3]);
+
+            Trainer trainer = trainers.FirstOrDefault(x => x.Name == trainerName);
+
+            if (trainer == null)
             {
-                trainer.PrintTrainerInfo();
+                trainer = new Trainer(trainerName);
+                trainers.Add(trainer);
             }
+
+            Pokemon pokemon = new Pokemon(pokemonName, pokemonElement, pokemonHelth);
+
+            trainer.Pokemons.Add(pokemon);
+
+
         }
     }
 }

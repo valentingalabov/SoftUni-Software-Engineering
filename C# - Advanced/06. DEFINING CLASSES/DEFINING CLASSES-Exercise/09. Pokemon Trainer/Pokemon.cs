@@ -6,19 +6,18 @@ namespace PokemonTrainer
 {
     public class Pokemon
     {
-
-        public string Name;
-        public string Type;
-        public int Health;
-
-        public Pokemon(string name, string type, int health)
+        public Pokemon(string name,string element,int helth)
         {
-            Name = name;
-            Type = type;
-            Health = health;
+            this.Name = name;
+            this.Element = element;
+            this.Helth = helth;
         }
+        
+        public string Name { get; set; }
 
+        public string Element { get; set; }
 
+        public int Helth { get; set; }
 
 
     }

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Valio\\Desktop\\EXERCISE DEFINING CLASSES\\PokemonTrainer\\PokemonTrainer.csproj",
+      "projectUniqueName": "C:\\Users\\Valio\\Desktop\\PokemonTrainer\\PokemonTrainer.csproj",
       "projectName": "PokemonTrainer",
-      "projectPath": "C:\\Users\\Valio\\Desktop\\EXERCISE DEFINING CLASSES\\PokemonTrainer\\PokemonTrainer.csproj",
+      "projectPath": "C:\\Users\\Valio\\Desktop\\PokemonTrainer\\PokemonTrainer.csproj",
       "packagesPath": "C:\\Users\\Valio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Valio\\Desktop\\EXERCISE DEFINING CLASSES\\PokemonTrainer\\obj\\",
+      "outputPath": "C:\\Users\\Valio\\Desktop\\PokemonTrainer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
