@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\Generics\GenericCountMethodDouble\bin\Debug\netcoreapp2.2\GenericCountMethodDouble.deps.json
+C:\Users\Valio\Desktop\Generics\GenericCountMethodDouble\bin\Debug\netcoreapp2.2\GenericCountMethodDouble.runtimeconfig.json
+C:\Users\Valio\Desktop\Generics\GenericCountMethodDouble\bin\Debug\netcoreapp2.2\GenericCountMethodDouble.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\Generics\GenericCountMethodDouble\bin\Debug\netcoreapp2.2\GenericCountMethodDouble.dll
+C:\Users\Valio\Desktop\Generics\GenericCountMethodDouble\bin\Debug\netcoreapp2.2\GenericCountMethodDouble.pdb
+C:\Users\Valio\Desktop\Generics\GenericCountMethodDouble\obj\Debug\netcoreapp2.2\GenericCountMethodDouble.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\Generics\GenericCountMethodDouble\obj\Debug\netcoreapp2.2\GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\Generics\GenericCountMethodDouble\obj\Debug\netcoreapp2.2\GenericCountMethodDouble.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\Generics\GenericCountMethodDouble\obj\Debug\netcoreapp2.2\GenericCountMethodDouble.AssemblyInfo.cs
+C:\Users\Valio\Desktop\Generics\GenericCountMethodDouble\obj\Debug\netcoreapp2.2\GenericCountMethodDouble.dll
+C:\Users\Valio\Desktop\Generics\GenericCountMethodDouble\obj\Debug\netcoreapp2.2\GenericCountMethodDouble.pdb
