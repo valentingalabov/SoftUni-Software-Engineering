@@ -1,0 +1,22 @@
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\07. Workshop\Workshop-Exercise\Custom Doubly Linked List\bin\Debug\netcoreapp2.1\Custom Doubly Linked List.deps.json
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\07. Workshop\Workshop-Exercise\Custom Doubly Linked List\bin\Debug\netcoreapp2.1\Custom Doubly Linked List.runtimeconfig.json
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\07. Workshop\Workshop-Exercise\Custom Doubly Linked List\bin\Debug\netcoreapp2.1\Custom Doubly Linked List.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\07. Workshop\Workshop-Exercise\Custom Doubly Linked List\bin\Debug\netcoreapp2.1\Custom Doubly Linked List.dll
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\07. Workshop\Workshop-Exercise\Custom Doubly Linked List\bin\Debug\netcoreapp2.1\Custom Doubly Linked List.pdb
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\07. Workshop\Workshop-Exercise\Custom Doubly Linked List\obj\Debug\netcoreapp2.1\Custom Doubly Linked List.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\07. Workshop\Workshop-Exercise\Custom Doubly Linked List\obj\Debug\netcoreapp2.1\Custom Doubly Linked List.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\07. Workshop\Workshop-Exercise\Custom Doubly Linked List\obj\Debug\netcoreapp2.1\Custom Doubly Linked List.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\07. Workshop\Workshop-Exercise\Custom Doubly Linked List\obj\Debug\netcoreapp2.1\Custom Doubly Linked List.AssemblyInfo.cs
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\07. Workshop\Workshop-Exercise\Custom Doubly Linked List\obj\Debug\netcoreapp2.1\Custom Doubly Linked List.dll
+C:\Users\Valio\Desktop\Soft Uni - Software Engineering\C# - Advanced\07. Workshop\Workshop-Exercise\Custom Doubly Linked List\obj\Debug\netcoreapp2.1\Custom Doubly Linked List.pdb
+C:\Users\Valio\Desktop\Custom Doubly Linked List\bin\Debug\netcoreapp2.1\Custom Doubly Linked List.deps.json
+C:\Users\Valio\Desktop\Custom Doubly Linked List\bin\Debug\netcoreapp2.1\Custom Doubly Linked List.runtimeconfig.json
+C:\Users\Valio\Desktop\Custom Doubly Linked List\bin\Debug\netcoreapp2.1\Custom Doubly Linked List.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\Custom Doubly Linked List\bin\Debug\netcoreapp2.1\Custom Doubly Linked List.dll
+C:\Users\Valio\Desktop\Custom Doubly Linked List\bin\Debug\netcoreapp2.1\Custom Doubly Linked List.pdb
+C:\Users\Valio\Desktop\Custom Doubly Linked List\obj\Debug\netcoreapp2.1\Custom Doubly Linked List.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\Custom Doubly Linked List\obj\Debug\netcoreapp2.1\Custom Doubly Linked List.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\Custom Doubly Linked List\obj\Debug\netcoreapp2.1\Custom Doubly Linked List.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\Custom Doubly Linked List\obj\Debug\netcoreapp2.1\Custom Doubly Linked List.AssemblyInfo.cs
+C:\Users\Valio\Desktop\Custom Doubly Linked List\obj\Debug\netcoreapp2.1\Custom Doubly Linked List.dll
+C:\Users\Valio\Desktop\Custom Doubly Linked List\obj\Debug\netcoreapp2.1\Custom Doubly Linked List.pdb
