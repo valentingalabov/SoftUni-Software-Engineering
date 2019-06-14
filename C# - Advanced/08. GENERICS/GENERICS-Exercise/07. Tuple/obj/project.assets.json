@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Valio\\Desktop\\Generics\\Tuple\\Tuple.csproj",
+      "projectUniqueName": "C:\\Users\\Valio\\Desktop\\Soft Uni - Software Engineering\\C# - Advanced\\08. GENERICS\\GENERICS-Exercise\\07. Tuple\\Tuple.csproj",
       "projectName": "Tuple",
-      "projectPath": "C:\\Users\\Valio\\Desktop\\Generics\\Tuple\\Tuple.csproj",
+      "projectPath": "C:\\Users\\Valio\\Desktop\\Soft Uni - Software Engineering\\C# - Advanced\\08. GENERICS\\GENERICS-Exercise\\07. Tuple\\Tuple.csproj",
       "packagesPath": "C:\\Users\\Valio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Valio\\Desktop\\Generics\\Tuple\\obj\\",
+      "outputPath": "C:\\Users\\Valio\\Desktop\\Soft Uni - Software Engineering\\C# - Advanced\\08. GENERICS\\GENERICS-Exercise\\07. Tuple\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
