@@ -1,0 +1,11 @@
+C:\Users\Valio\01. Trojan Invasion\bin\Debug\netcoreapp2.2\01. Trojan Invasion.deps.json
+C:\Users\Valio\01. Trojan Invasion\bin\Debug\netcoreapp2.2\01. Trojan Invasion.runtimeconfig.json
+C:\Users\Valio\01. Trojan Invasion\bin\Debug\netcoreapp2.2\01. Trojan Invasion.runtimeconfig.dev.json
+C:\Users\Valio\01. Trojan Invasion\bin\Debug\netcoreapp2.2\01. Trojan Invasion.dll
+C:\Users\Valio\01. Trojan Invasion\bin\Debug\netcoreapp2.2\01. Trojan Invasion.pdb
+C:\Users\Valio\01. Trojan Invasion\obj\Debug\netcoreapp2.2\01. Trojan Invasion.csprojAssemblyReference.cache
+C:\Users\Valio\01. Trojan Invasion\obj\Debug\netcoreapp2.2\01. Trojan Invasion.csproj.CoreCompileInputs.cache
+C:\Users\Valio\01. Trojan Invasion\obj\Debug\netcoreapp2.2\01. Trojan Invasion.AssemblyInfoInputs.cache
+C:\Users\Valio\01. Trojan Invasion\obj\Debug\netcoreapp2.2\01. Trojan Invasion.AssemblyInfo.cs
+C:\Users\Valio\01. Trojan Invasion\obj\Debug\netcoreapp2.2\01. Trojan Invasion.dll
+C:\Users\Valio\01. Trojan Invasion\obj\Debug\netcoreapp2.2\01. Trojan Invasion.pdb
