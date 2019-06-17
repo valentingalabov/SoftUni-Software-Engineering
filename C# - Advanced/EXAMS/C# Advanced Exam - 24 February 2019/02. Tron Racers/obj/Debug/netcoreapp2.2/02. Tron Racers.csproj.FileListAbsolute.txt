@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\02. Tron Racers\bin\Debug\netcoreapp2.2\02. Tron Racers.deps.json
+C:\Users\Valio\Desktop\02. Tron Racers\bin\Debug\netcoreapp2.2\02. Tron Racers.runtimeconfig.json
+C:\Users\Valio\Desktop\02. Tron Racers\bin\Debug\netcoreapp2.2\02. Tron Racers.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\02. Tron Racers\bin\Debug\netcoreapp2.2\02. Tron Racers.dll
+C:\Users\Valio\Desktop\02. Tron Racers\bin\Debug\netcoreapp2.2\02. Tron Racers.pdb
+C:\Users\Valio\Desktop\02. Tron Racers\obj\Debug\netcoreapp2.2\02. Tron Racers.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\02. Tron Racers\obj\Debug\netcoreapp2.2\02. Tron Racers.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\02. Tron Racers\obj\Debug\netcoreapp2.2\02. Tron Racers.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\02. Tron Racers\obj\Debug\netcoreapp2.2\02. Tron Racers.AssemblyInfo.cs
+C:\Users\Valio\Desktop\02. Tron Racers\obj\Debug\netcoreapp2.2\02. Tron Racers.dll
+C:\Users\Valio\Desktop\02. Tron Racers\obj\Debug\netcoreapp2.2\02. Tron Racers.pdb
