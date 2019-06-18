@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\iteratorandCoperator\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.deps.json
+C:\Users\Valio\Desktop\iteratorandCoperator\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.runtimeconfig.json
+C:\Users\Valio\Desktop\iteratorandCoperator\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\iteratorandCoperator\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.dll
+C:\Users\Valio\Desktop\iteratorandCoperator\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.pdb
+C:\Users\Valio\Desktop\iteratorandCoperator\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\iteratorandCoperator\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\iteratorandCoperator\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\iteratorandCoperator\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.AssemblyInfo.cs
+C:\Users\Valio\Desktop\iteratorandCoperator\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.dll
+C:\Users\Valio\Desktop\iteratorandCoperator\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.pdb

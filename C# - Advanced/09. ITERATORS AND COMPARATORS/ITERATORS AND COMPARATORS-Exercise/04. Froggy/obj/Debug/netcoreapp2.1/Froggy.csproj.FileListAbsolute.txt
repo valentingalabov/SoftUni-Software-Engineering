@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\iteratorandCoperator\Froggy\bin\Debug\netcoreapp2.1\Froggy.deps.json
+C:\Users\Valio\Desktop\iteratorandCoperator\Froggy\bin\Debug\netcoreapp2.1\Froggy.runtimeconfig.json
+C:\Users\Valio\Desktop\iteratorandCoperator\Froggy\bin\Debug\netcoreapp2.1\Froggy.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\iteratorandCoperator\Froggy\bin\Debug\netcoreapp2.1\Froggy.dll
+C:\Users\Valio\Desktop\iteratorandCoperator\Froggy\bin\Debug\netcoreapp2.1\Froggy.pdb
+C:\Users\Valio\Desktop\iteratorandCoperator\Froggy\obj\Debug\netcoreapp2.1\Froggy.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\iteratorandCoperator\Froggy\obj\Debug\netcoreapp2.1\Froggy.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\iteratorandCoperator\Froggy\obj\Debug\netcoreapp2.1\Froggy.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\iteratorandCoperator\Froggy\obj\Debug\netcoreapp2.1\Froggy.AssemblyInfo.cs
+C:\Users\Valio\Desktop\iteratorandCoperator\Froggy\obj\Debug\netcoreapp2.1\Froggy.dll
+C:\Users\Valio\Desktop\iteratorandCoperator\Froggy\obj\Debug\netcoreapp2.1\Froggy.pdb
