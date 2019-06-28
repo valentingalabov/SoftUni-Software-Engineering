@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\01. Rhombus of Stars\bin\Debug\netcoreapp2.2\01. Rhombus of Stars.deps.json
+C:\Users\Valio\Desktop\01. Rhombus of Stars\bin\Debug\netcoreapp2.2\01. Rhombus of Stars.runtimeconfig.json
+C:\Users\Valio\Desktop\01. Rhombus of Stars\bin\Debug\netcoreapp2.2\01. Rhombus of Stars.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\01. Rhombus of Stars\bin\Debug\netcoreapp2.2\01. Rhombus of Stars.dll
+C:\Users\Valio\Desktop\01. Rhombus of Stars\bin\Debug\netcoreapp2.2\01. Rhombus of Stars.pdb
+C:\Users\Valio\Desktop\01. Rhombus of Stars\obj\Debug\netcoreapp2.2\01. Rhombus of Stars.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\01. Rhombus of Stars\obj\Debug\netcoreapp2.2\01. Rhombus of Stars.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\01. Rhombus of Stars\obj\Debug\netcoreapp2.2\01. Rhombus of Stars.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\01. Rhombus of Stars\obj\Debug\netcoreapp2.2\01. Rhombus of Stars.AssemblyInfo.cs
+C:\Users\Valio\Desktop\01. Rhombus of Stars\obj\Debug\netcoreapp2.2\01. Rhombus of Stars.dll
+C:\Users\Valio\Desktop\01. Rhombus of Stars\obj\Debug\netcoreapp2.2\01. Rhombus of Stars.pdb
