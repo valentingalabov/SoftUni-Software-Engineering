@@ -1,4 +1,4 @@
-﻿using System;
+﻿
 
 namespace _03._Student_System
 {
@@ -6,10 +6,12 @@ namespace _03._Student_System
     {
         static void Main(string[] args)
         {
+           var StudentSystem = new StudentSystem();
 
-
-
-            
+            while (true)
+            {
+                StudentSystem.ParseCommand();
+            }
 
         }
     }

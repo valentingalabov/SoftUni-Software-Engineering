@@ -1,0 +1,11 @@
+C:\Users\Valio\Desktop\03. Student System\bin\Debug\netcoreapp2.2\03. Student System.deps.json
+C:\Users\Valio\Desktop\03. Student System\bin\Debug\netcoreapp2.2\03. Student System.runtimeconfig.json
+C:\Users\Valio\Desktop\03. Student System\bin\Debug\netcoreapp2.2\03. Student System.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\03. Student System\bin\Debug\netcoreapp2.2\03. Student System.dll
+C:\Users\Valio\Desktop\03. Student System\bin\Debug\netcoreapp2.2\03. Student System.pdb
+C:\Users\Valio\Desktop\03. Student System\obj\Debug\netcoreapp2.2\03. Student System.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\03. Student System\obj\Debug\netcoreapp2.2\03. Student System.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\03. Student System\obj\Debug\netcoreapp2.2\03. Student System.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\03. Student System\obj\Debug\netcoreapp2.2\03. Student System.AssemblyInfo.cs
+C:\Users\Valio\Desktop\03. Student System\obj\Debug\netcoreapp2.2\03. Student System.dll
+C:\Users\Valio\Desktop\03. Student System\obj\Debug\netcoreapp2.2\03. Student System.pdb

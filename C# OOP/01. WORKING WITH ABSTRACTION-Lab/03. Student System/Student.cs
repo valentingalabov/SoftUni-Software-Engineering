@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
 
 namespace _03._Student_System
 {
@@ -23,7 +21,21 @@ namespace _03._Student_System
 
         public override string ToString()
         {
-            return base.ToString();
+            string view = $"{Name} is {Age} years old. ";
+            if (Grade > 5.00)
+            {
+                view += $"Excellent Studen";
+            }
+            else if (Grade < 5.00 && Grade >= 3.50)
+            {
+                view += $"Average Student";
+            }
+            else
+            {
+                view += $"Perfect Student";
+            }
+
+            return view;
         }
 
     }

@@ -1,16 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+
 
 namespace _03._Student_System
 {
     public class StudentSystem
     {
-        private Dictionary<string, Student> repo;
+      
 
         public StudentSystem()
         {
-            repo = new Dictionary<string, Student>();
+            Repo = new Dictionary<string, Student>();
         }
 
         public Dictionary<string, Student> Repo { get; private set; }
@@ -22,6 +22,7 @@ namespace _03._Student_System
             switch (args[0])
             {
                 case "Create":
+                    
                     CreateStudents(args);
                     break;
                 case "Show":
@@ -35,31 +36,36 @@ namespace _03._Student_System
                     break;
             }
 
+
         }
 
         private void ShowStudents(string[] args)
         {
-            string name = args[0];
-            var age = int.Parse(args[1]);
-            var grade = double.Parse(args[2]);
+            string name = args[1];
+            if (Repo.ContainsKey(name))
+            {
+                var student = Repo[name];
+                Console.WriteLine(student);
+
+            }
         }
 
         private void Exit()
         {
-            throw new NotImplementedException();
+            Environment.Exit(0);
         }
 
         private void CreateStudents(string[] args)
         {
-            string name = args[0];
-            var age = int.Parse(args[1]);
-            var grade = double.Parse(args[2]);
 
+            string name = args[1];
+            var age = int.Parse(args[2]);
+            var grade = double.Parse(args[3]);
             var newStudent = new Student(name, age, grade);
 
-            if (!repo.ContainsKey(name))
+            if (!Repo.ContainsKey(name))
             {
-                repo.Add(name, newStudent);
+                Repo.Add(name, newStudent);
             }
         }
     }

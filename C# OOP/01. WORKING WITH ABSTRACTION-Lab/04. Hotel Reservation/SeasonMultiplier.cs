@@ -1,0 +1,12 @@
+﻿
+
+namespace _04._Hotel_Reservation
+{
+    public enum SeasonMultiplier
+    {
+        Autumn = 1,
+        Spring,
+        Winter,
+        Summer
+    }
+}
