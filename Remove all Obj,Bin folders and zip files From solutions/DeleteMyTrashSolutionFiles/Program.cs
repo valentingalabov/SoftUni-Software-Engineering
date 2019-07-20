@@ -8,7 +8,7 @@ namespace DeleteAllBinObjAndZipFilesFromMySolution
     {
         public static void Main(string[] args)
         {
-            string path = @"C:\Users\Valio\Desktop\Soft Uni - Software Engineering";
+            string path = @"Add your Github main Folder full path here";
 
             DeleteTrashItems delete = new DeleteTrashItems();
             delete.DeleteUnusedItems(path);
