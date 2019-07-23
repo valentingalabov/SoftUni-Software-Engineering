@@ -1,4 +1,5 @@
 ﻿
+using System;
 using System.IO;
 using System.Linq;
 
@@ -6,7 +7,7 @@ namespace DeleteAllBinObjAndZipFilesFromMySolution
 {
     public class DeleteTrashItems
     {
-        
+
 
         public void DeleteUnusedItems(string path)
         {
@@ -16,14 +17,10 @@ namespace DeleteAllBinObjAndZipFilesFromMySolution
             var directoriesOfObjFolders = directoryToOpperate.GetDirectories("obj", SearchOption.AllDirectories);
 
             var directoriesOfAllSolutions = directoryToOpperate.GetDirectories();
-            foreach (var folder in directoriesOfAllSolutions)
-            {
-                folder.EnumerateFiles().Where(x => x.Extension == ".zip")
-                     .ToList().ForEach(f => f.Delete());
 
-                folder.EnumerateFiles().Where(x => x.Extension == ".rar")
-                     .ToList().ForEach(f => f.Delete());
-            }
+
+
+            DirectorySearch(path);
 
 
             foreach (var itemsInBin in directoriesOfBinFolders)
@@ -51,8 +48,43 @@ namespace DeleteAllBinObjAndZipFilesFromMySolution
 
             }
 
-            System.Console.WriteLine("All files are deleted!");
+            Console.WriteLine("All files are deleted!");
+
         }
 
+        //find all files in directory tree with extension .zip
+
+        public static void DirectorySearch(string root, bool isRootItrated = false)
+        {
+            if (!isRootItrated)
+            {
+                var rootDirectoryFiles = Directory.GetFiles(root);
+                foreach (var file in rootDirectoryFiles)
+                {
+                    if (file.EndsWith(".zip"))
+                    {
+                        File.Delete(file);
+                    }
+                }
+            }
+
+            var subDirectories = Directory.GetDirectories(root);
+
+            if (subDirectories?.Any() == true)
+            {
+                foreach (var directory in subDirectories)
+                {
+                    var files = Directory.GetFiles(directory);
+                    foreach (var file in files)
+                    {
+                        if (file.EndsWith(".zip"))
+                        {
+                            File.Delete(file);
+                        }
+                    }
+                    DirectorySearch(directory, true);
+                }
+            }
+        }
     }
 }
