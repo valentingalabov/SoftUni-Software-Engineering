@@ -1,0 +1,14 @@
+C:\Users\Valio\Desktop\MySpecialApp.Tests\bin\Debug\netcoreapp2.2\MySpecialApp.Tests.deps.json
+C:\Users\Valio\Desktop\MySpecialApp.Tests\bin\Debug\netcoreapp2.2\MySpecialApp.Tests.dll
+C:\Users\Valio\Desktop\MySpecialApp.Tests\bin\Debug\netcoreapp2.2\MySpecialApp.Tests.pdb
+C:\Users\Valio\Desktop\MySpecialApp.Tests\obj\Debug\netcoreapp2.2\MySpecialApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\MySpecialApp.Tests\obj\Debug\netcoreapp2.2\MySpecialApp.Tests.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\MySpecialApp.Tests\obj\Debug\netcoreapp2.2\MySpecialApp.Tests.AssemblyInfo.cs
+C:\Users\Valio\Desktop\MySpecialApp.Tests\obj\Debug\netcoreapp2.2\MySpecialApp.Tests.dll
+C:\Users\Valio\Desktop\MySpecialApp.Tests\obj\Debug\netcoreapp2.2\MySpecialApp.Tests.pdb
+C:\Users\Valio\Desktop\MySpecialApp.Tests\obj\Debug\netcoreapp2.2\MySpecialApp.Tests.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\MySpecialApp.Tests\bin\Debug\netcoreapp2.2\MySpecialApp.dll
+C:\Users\Valio\Desktop\MySpecialApp.Tests\bin\Debug\netcoreapp2.2\SoftUniTestingFramework.dll
+C:\Users\Valio\Desktop\MySpecialApp.Tests\bin\Debug\netcoreapp2.2\MySpecialApp.pdb
+C:\Users\Valio\Desktop\MySpecialApp.Tests\bin\Debug\netcoreapp2.2\SoftUniTestingFramework.pdb
+C:\Users\Valio\Desktop\MySpecialApp.Tests\obj\Debug\netcoreapp2.2\MySpecialApp.Tests.csproj.CopyComplete
