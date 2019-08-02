@@ -1,0 +1,9 @@
+C:\Users\Valio\Desktop\UniTesting-Exercise\CarManager\bin\Debug\netcoreapp2.1\CarManager.deps.json
+C:\Users\Valio\Desktop\UniTesting-Exercise\CarManager\bin\Debug\netcoreapp2.1\CarManager.dll
+C:\Users\Valio\Desktop\UniTesting-Exercise\CarManager\bin\Debug\netcoreapp2.1\CarManager.pdb
+C:\Users\Valio\Desktop\UniTesting-Exercise\CarManager\obj\Debug\netcoreapp2.1\CarManager.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\UniTesting-Exercise\CarManager\obj\Debug\netcoreapp2.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\UniTesting-Exercise\CarManager\obj\Debug\netcoreapp2.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\UniTesting-Exercise\CarManager\obj\Debug\netcoreapp2.1\CarManager.AssemblyInfo.cs
+C:\Users\Valio\Desktop\UniTesting-Exercise\CarManager\obj\Debug\netcoreapp2.1\CarManager.dll
+C:\Users\Valio\Desktop\UniTesting-Exercise\CarManager\obj\Debug\netcoreapp2.1\CarManager.pdb

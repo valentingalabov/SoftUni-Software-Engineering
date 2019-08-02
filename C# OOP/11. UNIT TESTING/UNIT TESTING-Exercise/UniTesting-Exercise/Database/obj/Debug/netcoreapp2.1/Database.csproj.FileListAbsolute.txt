@@ -1,0 +1,9 @@
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database\bin\Debug\netcoreapp2.1\Database.deps.json
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database\bin\Debug\netcoreapp2.1\Database.dll
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database\bin\Debug\netcoreapp2.1\Database.pdb
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database\obj\Debug\netcoreapp2.1\Database.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database\obj\Debug\netcoreapp2.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database\obj\Debug\netcoreapp2.1\Database.dll
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database\obj\Debug\netcoreapp2.1\Database.pdb

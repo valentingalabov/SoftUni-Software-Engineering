@@ -1,0 +1,17 @@
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.deps.json
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.runtimeconfig.json
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.dll
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\bin\Debug\netcoreapp2.1\Database.Tests.pdb
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.AssemblyInfo.cs
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.dll
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.pdb
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\bin\Debug\netcoreapp2.1\Database.dll
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\bin\Debug\netcoreapp2.1\Database.pdb
+C:\Users\Valio\Desktop\UniTesting-Exercise\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.csproj.CopyComplete
