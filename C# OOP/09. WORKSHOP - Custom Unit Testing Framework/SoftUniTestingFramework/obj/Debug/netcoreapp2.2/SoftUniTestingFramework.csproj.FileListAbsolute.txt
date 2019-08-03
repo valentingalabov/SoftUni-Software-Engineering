@@ -1,9 +1,0 @@
-C:\Users\Valio\Desktop\SoftUniTestingFramework\bin\Debug\netcoreapp2.2\SoftUniTestingFramework.deps.json
-C:\Users\Valio\Desktop\SoftUniTestingFramework\bin\Debug\netcoreapp2.2\SoftUniTestingFramework.dll
-C:\Users\Valio\Desktop\SoftUniTestingFramework\bin\Debug\netcoreapp2.2\SoftUniTestingFramework.pdb
-C:\Users\Valio\Desktop\SoftUniTestingFramework\obj\Debug\netcoreapp2.2\SoftUniTestingFramework.csprojAssemblyReference.cache
-C:\Users\Valio\Desktop\SoftUniTestingFramework\obj\Debug\netcoreapp2.2\SoftUniTestingFramework.csproj.CoreCompileInputs.cache
-C:\Users\Valio\Desktop\SoftUniTestingFramework\obj\Debug\netcoreapp2.2\SoftUniTestingFramework.AssemblyInfoInputs.cache
-C:\Users\Valio\Desktop\SoftUniTestingFramework\obj\Debug\netcoreapp2.2\SoftUniTestingFramework.AssemblyInfo.cs
-C:\Users\Valio\Desktop\SoftUniTestingFramework\obj\Debug\netcoreapp2.2\SoftUniTestingFramework.dll
-C:\Users\Valio\Desktop\SoftUniTestingFramework\obj\Debug\netcoreapp2.2\SoftUniTestingFramework.pdb

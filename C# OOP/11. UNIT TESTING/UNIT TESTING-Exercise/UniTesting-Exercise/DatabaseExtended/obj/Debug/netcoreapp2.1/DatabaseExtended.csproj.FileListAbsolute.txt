@@ -1,9 +1,0 @@
-C:\Users\Valio\Desktop\UniTesting-Exercise\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.deps.json
-C:\Users\Valio\Desktop\UniTesting-Exercise\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
-C:\Users\Valio\Desktop\UniTesting-Exercise\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
-C:\Users\Valio\Desktop\UniTesting-Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csprojAssemblyReference.cache
-C:\Users\Valio\Desktop\UniTesting-Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csproj.CoreCompileInputs.cache
-C:\Users\Valio\Desktop\UniTesting-Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
-C:\Users\Valio\Desktop\UniTesting-Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
-C:\Users\Valio\Desktop\UniTesting-Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.dll
-C:\Users\Valio\Desktop\UniTesting-Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.pdb
