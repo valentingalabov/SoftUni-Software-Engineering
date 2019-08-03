@@ -1,8 +1,0 @@
-C:\Users\Valio\Desktop\UniTesting-Exercise\Service\bin\Debug\netcoreapp2.1\Service.deps.json
-C:\Users\Valio\Desktop\UniTesting-Exercise\Service\bin\Debug\netcoreapp2.1\Service.dll
-C:\Users\Valio\Desktop\UniTesting-Exercise\Service\bin\Debug\netcoreapp2.1\Service.pdb
-C:\Users\Valio\Desktop\UniTesting-Exercise\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
-C:\Users\Valio\Desktop\UniTesting-Exercise\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
-C:\Users\Valio\Desktop\UniTesting-Exercise\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
-C:\Users\Valio\Desktop\UniTesting-Exercise\Service\obj\Debug\netcoreapp2.1\Service.dll
-C:\Users\Valio\Desktop\UniTesting-Exercise\Service\obj\Debug\netcoreapp2.1\Service.pdb
