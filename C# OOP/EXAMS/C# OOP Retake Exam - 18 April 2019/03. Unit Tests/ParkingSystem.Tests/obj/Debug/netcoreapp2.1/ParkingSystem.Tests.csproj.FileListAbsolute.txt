@@ -1,0 +1,17 @@
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.deps.json
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.runtimeconfig.json
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.runtimeconfig.dev.json
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.dll
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.pdb
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.dll
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.pdb
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.csprojAssemblyReference.cache
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.AssemblyInfoInputs.cache
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.AssemblyInfo.cs
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.csproj.CopyComplete
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.dll
+C:\Users\Valio\Desktop\Unit Tests\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.pdb
