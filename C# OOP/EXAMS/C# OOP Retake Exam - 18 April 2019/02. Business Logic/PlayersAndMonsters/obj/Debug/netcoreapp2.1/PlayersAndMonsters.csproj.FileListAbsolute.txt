@@ -1,0 +1,11 @@
+C:\Users\Valentin\Desktop\C# OOP Retake Exam - 18 April 2019\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.deps.json
+C:\Users\Valentin\Desktop\C# OOP Retake Exam - 18 April 2019\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.json
+C:\Users\Valentin\Desktop\C# OOP Retake Exam - 18 April 2019\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.dev.json
+C:\Users\Valentin\Desktop\C# OOP Retake Exam - 18 April 2019\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+C:\Users\Valentin\Desktop\C# OOP Retake Exam - 18 April 2019\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
+C:\Users\Valentin\Desktop\C# OOP Retake Exam - 18 April 2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csprojAssemblyReference.cache
+C:\Users\Valentin\Desktop\C# OOP Retake Exam - 18 April 2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\C# OOP Retake Exam - 18 April 2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\C# OOP Retake Exam - 18 April 2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\C# OOP Retake Exam - 18 April 2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+C:\Users\Valentin\Desktop\C# OOP Retake Exam - 18 April 2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
