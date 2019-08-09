@@ -1,51 +1,55 @@
-﻿using MortalEngines.Entities.Contracts;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Text;
+using System.Collections.Generic;
 
-namespace MortalEngines.Entities
+using MortalEngines.Common;
+using MortalEngines.Entities.Contracts;
+
+namespace MortalEngines.Entities.Models
 {
     public class Pilot : IPilot
     {
-       
-
         private string name;
+        private readonly List<IMachine> machines;
 
-        public Pilot(string name)
+        private Pilot()
         {
-            this.Name = name;
-            this.Machines = new List<IMachine>();
+            this.machines = new List<IMachine>();
         }
 
+        public Pilot(string name)
+            : this()
+        {
+            this.Name = name;
+        }
 
         public string Name
         {
-            get
-            {
-                return this.name;
-            }
-
+            get => this.name;
             private set
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentNullException("Pilot name cannot be null or empty string.");
+                    throw new ArgumentNullException(ExceptionMessages.PilotNameNullOrEmptyException);
                 }
+
                 this.name = value;
             }
         }
 
-        public List<Pilot> Pilots { get; protected set; }
-        public List<IMachine> Machines { get; }
+        public IReadOnlyCollection<IMachine> Machines
+        {
+            get => this.machines.AsReadOnly();
+        }
 
         public void AddMachine(IMachine machine)
         {
             if (machine == null)
             {
-                throw new NullReferenceException("Null machine cannot be added to the pilot.");
+                throw new NullReferenceException(ExceptionMessages.MachineNullAdditionException);
             }
 
-            Machines.Add(machine);
+            this.machines.Add(machine);
         }
 
         public string Report()
@@ -53,10 +57,12 @@ namespace MortalEngines.Entities
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine($"{this.Name} - {this.Machines.Count} machines");
-            foreach (var machine in Machines)
+
+            foreach (var machine in this.Machines)
             {
                 sb.AppendLine(machine.ToString());
             }
+
             return sb.ToString().TrimEnd();
         }
     }

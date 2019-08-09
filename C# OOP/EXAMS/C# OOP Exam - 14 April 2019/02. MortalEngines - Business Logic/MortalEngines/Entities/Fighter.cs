@@ -1,63 +1,58 @@
-﻿using MortalEngines.Entities.Contracts;
-using System;
+﻿using System;
 
-namespace MortalEngines.Entities
+using MortalEngines.Entities.Contracts;
+
+namespace MortalEngines.Entities.Models
 {
     public class Fighter : BaseMachine, IFighter
     {
-        private bool aggressiveMode;
-        
-
-
+        private const int INITIAL_HEALTH_POINTS = 200;
+        private const int ATTACK_POINTS_TO_INCREASE = 50;
+        private const int DEFENSE_POINTS_TO_DECREASE = 25;
 
         public Fighter(string name, double attackPoints, double defensePoints)
-            : base(name, attackPoints += 50, defensePoints -= 25, 200)
+            : base(name,
+                  attackPoints + ATTACK_POINTS_TO_INCREASE,
+                  defensePoints - DEFENSE_POINTS_TO_DECREASE,
+                  INITIAL_HEALTH_POINTS)
         {
-
+            this.AggressiveMode = true;
         }
 
-        public bool AggressiveMode
-        {
-            get
-            {
-                return this.aggressiveMode;
-            }
-            private set
-            {
-                this.aggressiveMode = true;
-            }
-        }
+        public bool AggressiveMode { get; private set; }
 
         public void ToggleAggressiveMode()
         {
-            if (this.AggressiveMode)
+            if (this.AggressiveMode == false)
             {
-                this.AggressiveMode = false;
-                AttackPoints -= 50;
-                DefensePoints += 25;
+                this.AggressiveMode = true;
+
+                this.AttackPoints += ATTACK_POINTS_TO_INCREASE;
+                this.DefensePoints -= DEFENSE_POINTS_TO_DECREASE;
             }
             else
             {
-                this.AggressiveMode = true;
-                AttackPoints += 50;
-                DefensePoints -= 25;
-            }
+                this.AggressiveMode = false;
 
+                this.AttackPoints -= ATTACK_POINTS_TO_INCREASE;
+                this.DefensePoints += DEFENSE_POINTS_TO_DECREASE;
+            }
         }
 
         public override string ToString()
         {
-            string state = String.Empty;
-            if (AggressiveMode)
+            string result = string.Empty;
+
+            if (this.AggressiveMode == true)
             {
-                state = "ON";
+                result = base.ToString() + Environment.NewLine + " *Aggressive: ON";
             }
             else
             {
-                state = "OFF";
+                result = base.ToString() + Environment.NewLine + " *Aggressive: OFF";
             }
-            return base.ToString() + Environment.NewLine + $" *Aggressive: {state}";
 
+            return result;
         }
     }
 }

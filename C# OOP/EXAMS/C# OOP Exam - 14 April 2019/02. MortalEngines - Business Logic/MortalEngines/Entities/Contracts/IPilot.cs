@@ -5,6 +5,7 @@
         string Name { get; }
 
         void AddMachine(IMachine machine);
+
         string Report();
     }
 }
