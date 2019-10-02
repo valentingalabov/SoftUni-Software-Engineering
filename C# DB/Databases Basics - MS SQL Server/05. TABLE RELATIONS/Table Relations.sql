@@ -113,7 +113,91 @@ INSERT INTO Teachers ([Name], ManagerID) VALUES
 ('Mark', 101),
 ('Greta', 101)
 
+--05. Online Store Database--
 
+CREATE DATABASE OnlineStore
+
+USE OnlineStore
+
+CREATE TABLE Cities (
+	CityID INT PRIMARY KEY,
+	[Name] NVARCHAR(50) NOT NULL
+)
+
+CREATE TABLE Customers (
+	CustomerID INT PRIMARY KEY,
+	[Name] NVARCHAR(50) NOT NULL,
+	Birthday DATE,
+	CityID INT FOREIGN KEY REFERENCES Cities(CityID) NOT NULL
+)
+
+CREATE TABLE Orders (
+	OrderID INT PRIMARY KEY,
+	CustomerID INT FOREIGN KEY REFERENCES Customers(CustomerID) NOT NULL
+)
+
+CREATE TABLE ItemTypes (
+	ItemTypeID INT PRIMARY KEY,
+	[Name] NVARCHAR(50)
+)
+
+CREATE TABLE Items (
+	ItemID INT PRIMARY KEY,
+	[Name] NVARCHAR(50),
+	ItemTypeID INT FOREIGN KEY REFERENCES ItemTypes(ItemTypeID) NOT NULL
+)
+
+CREATE TABLE OrderItems (
+	OrderID INT FOREIGN KEY REFERENCES Orders(OrderID),
+	ItemID INT FOREIGN KEY REFERENCES Items(ItemID),
+	CONSTRAINT PK_CompositeOrderIDItemID
+	PRIMARY KEY(OrderID,ItemID)
+)
 
 --06. University Database--
 
+CREATE DATABASE University
+
+USE University
+
+CREATE TABLE Majors (
+	MajorID INT PRIMARY KEY,
+	[Name] NVARCHAR(30) NOT NULL
+)
+
+CREATE TABLE Students (
+	StudentID INT PRIMARY KEY,
+	StudentNumber NVARCHAR(30) NOT NULL,
+	StudentName NVARCHAR(60) NOT NULL,
+	MajorID INT FOREIGN KEY REFERENCES Majors(MajorID) NOT NULL
+)
+
+CREATE TABLE Payments (
+	PaymentID INT PRIMARY KEY,
+	PaymentDate SMALLDATETIME,
+	PaymentAmount DECIMAL(10,2) NOT NULL,
+	StudentID INT FOREIGN KEY REFERENCES Students(StudentID) NOT NULL
+)
+
+CREATE TABLE Subjects (
+	SubjectID INT PRIMARY KEY,
+	SubjectName NVARCHAR(30) NOT NULL
+)
+
+CREATE TABLE Agenda (
+	StudentID INT FOREIGN KEY REFERENCES Students(StudentID),
+	SubjectID INT FOREIGN KEY REFERENCES Subjects(SubjectID),
+	CONSTRAINT PK_CompositeStudentIDSubjectID
+	PRIMARY KEY(StudentID,SubjectID)
+)
+
+--09. *Peaks in Rila--
+
+USE Geography
+
+SELECT m.MountainRange, p.PeakName, p.Elevation
+FROM Peaks AS p
+JOIN Mountains AS m
+ON P.MountainId = M.Id
+WHERE MountainRange = 'Rila'
+ORDER BY Elevation DESC
