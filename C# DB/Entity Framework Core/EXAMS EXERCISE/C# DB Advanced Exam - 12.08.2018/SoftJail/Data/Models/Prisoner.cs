@@ -27,11 +27,12 @@ namespace SoftJail.Data.Models
         
         public int Id { get; set; }
 
+        [Required]
         [StringLength(20, MinimumLength = 3)]
         public string FullName { get; set; }
 
         [Required]
-        [RegularExpression("^The [A-Z][a-z]+$")]
+        [RegularExpression(@"^The [A-Z][a-z]+$")]
         public string Nickname { get; set; }
 
         [Range(18,65)]
@@ -40,10 +41,11 @@ namespace SoftJail.Data.Models
         [Required]
         public DateTime IncarcerationDate { get; set; }
 
-        public DateTime ReleaseDate { get; set; }
+        public DateTime? ReleaseDate { get; set; }
 
+      
         [Range(typeof(decimal), "0", "79228162514264337593543950335")]
-        public decimal Bail { get; set; }
+        public decimal? Bail { get; set; }
 
         public int? CellId { get; set; }
 

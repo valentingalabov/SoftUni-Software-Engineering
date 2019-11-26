@@ -14,12 +14,12 @@
 		{
 		}
 
+        public DbSet<Prisoner> Prisoners { get; set; }
+        public DbSet<Officer> Officers { get; set; }
+        public DbSet<Mail> Mails { get; set; }
         public DbSet<Cell> Cells { get; set; }
         public DbSet<Department> Departments { get; set; }
-        public DbSet<Mail> Mails { get; set; }
-        public DbSet<Officer> Officers { get; set; }
         public DbSet<OfficerPrisoner> OfficersPrisoners { get; set; }
-        public DbSet<Prisoner> Prisoners { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 		{
@@ -36,6 +36,17 @@
             builder.Entity<OfficerPrisoner>(entity => 
             {
                 entity.HasKey(op => new { op.OfficerId, op.PrisonerId });
+
+                entity.
+                HasOne(op => op.Officer)
+                .WithMany(o => o.OfficerPrisoners)
+                .HasForeignKey(op => op.OfficerId);
+
+                entity.
+               HasOne(op => op.Prisoner)
+               .WithMany(o => o.PrisonerOfficers)
+               .HasForeignKey(op => op.PrisonerId);
+
             });
 
 		}

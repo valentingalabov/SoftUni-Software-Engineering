@@ -19,7 +19,8 @@ namespace SoftJail.Data.Models
         [Required]
         public string Sender { get; set; }
 
-        [RegularExpression(@"^[A-z\s0-9]+ str.$")]
+        [Required]
+        [RegularExpression(@"^[A-Za-z\s0-9]+ str.$")]
         public string Address { get; set; }
 
         public int PrisonerId { get; set; }
