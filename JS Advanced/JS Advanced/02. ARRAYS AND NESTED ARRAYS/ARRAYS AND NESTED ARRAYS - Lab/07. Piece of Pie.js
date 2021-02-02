@@ -1,5 +1,10 @@
-function solve() {
+function solve(inputArr, start, end) {
+let indexOfStart = inputArr.indexOf(start);
+let indexOfEnd = inputArr.indexOf(end) + 1 ;
 
+let resultArr =  inputArr.slice(indexOfStart, indexOfEnd);
+
+return resultArr;
 }
 
 console.log(solve(['Pumpkin Pie',
