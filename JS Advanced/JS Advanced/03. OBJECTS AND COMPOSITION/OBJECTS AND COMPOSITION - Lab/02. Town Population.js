@@ -19,19 +19,38 @@ for (let i = 0; i < inputArr.length; i++) {
 }
     
 let result = '';
-// cities.forEach(element => {
-//    result += `${element.name} : ${element.population} ` + '\n';
-// });
+cities.forEach(element => {
+   result += `${element.name} : ${element.population} ` + '\n';
+});
 
-const  entries = Object.entries(cities);
-
-for (let [key, value] in entries) {
-    result += `${key} : ${value} ` + '\n';
-}
 
 return result;
 
 }
+
+
+function solve1(townsArray) {
+
+const towns = {};
+
+for (let townAsString of townsArray) {
+   let [name, population] = townAsString.split(' <-> ');
+   population = Number(population);
+
+   if (towns[name] != undefined) {
+       population +=towns[name];
+   }
+
+   towns[name] = population;
+}
+
+for (let [name, population] of Object.entries(towns)) {
+
+    console.log(`${name} : ${population}`);    
+    }
+}
+
+
 
 console.log(solve(
     ['Istanbul <-> 100000',
@@ -40,3 +59,12 @@ console.log(solve(
     'Mexico City <-> 23401925',
     'Istanbul <-> 1000']
 ));
+
+
+solve(
+    ['Istanbul <-> 100000',
+    'Honk Kong <-> 2100004',
+    'Jerusalem <-> 2352344',
+    'Mexico City <-> 23401925',
+    'Istanbul <-> 1000']
+);
