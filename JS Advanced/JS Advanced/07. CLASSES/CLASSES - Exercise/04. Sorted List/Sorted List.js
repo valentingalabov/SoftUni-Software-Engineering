@@ -1,0 +1,5 @@
+class List {
+    add(element) {
+        
+    }
+}
