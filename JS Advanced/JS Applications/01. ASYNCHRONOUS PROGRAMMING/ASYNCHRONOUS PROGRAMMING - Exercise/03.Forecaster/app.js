@@ -123,16 +123,6 @@ function e(type, attributes, ...content) {
 }
 
 
-function creteNewElement(element, classEl, value) {
-    const result = document.createElement(element);
-    if (classEl) {
-        result.classList.add(classEl);
-    }
-    if (value) {
-        result.textContent = value;
-    }
-    return result;
-}
 
 async function getCode(cityName) {
     const url = `http://localhost:3030/jsonstore/forecaster/locations`;

@@ -23,7 +23,7 @@ async function lockedProfile() {
             e('hr', {},),
             e('label', {}, 'Username'),
             e('input', { type: 'text', name: `${username}Username`, value: username, disabled: 'true', readOnly: 'true' },),
-            e('div', { id: `${username}HiddenFields` },
+            e('div', { id: `${username}HiddenFields`, },
                 e('hr', {},),
                 e('label', {}, 'Email:'),
                 e('input', { type: 'email', name: `${username}${email}`, value: email, disabled: 'true', readOnly: 'true' },),
@@ -32,31 +32,41 @@ async function lockedProfile() {
             ),
             e('button', {}, 'Show more'));
 
-
-
+      
         main.appendChild(currCard);
 
+        const div = document.getElementById(`${username}HiddenFields`);
+        div.style.display = 'none';
 
-
-        // const btn = document.getElementById(`${username}btn`);
-        // console.log(btn);
-        // btn.addEventListener('click', console.log('clc'));
+ 
     });
 
+    const btns = [...document.getElementsByTagName('button')];
+
+    btns.forEach(btn => btn.addEventListener('click', showHide));
+
 
 }
 
-function showOrHide() {
+function showHide(event) {
+    const button = event.target;
+    const profile = button.parentNode;
+    const moreInformation = profile.getElementsByTagName('div')[0];
+  
+    
+    const lockStatus = profile.querySelector('input[type="radio"]:checked').value;
 
-    const hide = document.getElementById(`${username}HiddenFields`);
-    if (hide.style.display == 'none') {
-        hide.style.display = 'block';
-    } else {
-        hide.style.display = 'none';
+    if (lockStatus === 'unlock') {
+        if (button.textContent === 'Show more') {
+            moreInformation.style.display = 'inline-block';
+            button.textContent = 'Hide it';
+        } else if (button.textContent === 'Hide it') {
+            moreInformation.style.display = 'none';
+            button.textContent = 'Show more';
+        }
     }
-
-
 }
+
 
 
 function e(type, attributes, ...content) {
