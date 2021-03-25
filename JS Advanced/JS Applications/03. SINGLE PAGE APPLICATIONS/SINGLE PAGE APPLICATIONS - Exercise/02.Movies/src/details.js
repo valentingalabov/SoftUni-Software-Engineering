@@ -1,4 +1,5 @@
 import { e } from './dom.js';
+import { showEdit } from './edit.js';
 import { showHome } from './home.js';
 
 
@@ -54,7 +55,7 @@ function createMovieCard(movie, likes, ownLike) {
     if (userId != null) {
         if (userId == movie._ownerId) {
             controls.appendChild(e('a', { className: 'btn btn-danger', href: '#', onClick: (e) => onDelete(e, movie._id) }, 'Delete'));
-            controls.appendChild(e('a', { className: 'btn btn-warning', href: '#' }, 'Edit'));
+            controls.appendChild(e('a', { className: 'btn btn-warning', href: '#', onClick: (e)=> showEdit(e ,movie._id)}, 'Edit'));
         } else if (ownLike.length == 0) {
             controls.appendChild(e('a', { className: 'btn btn-primary', href: '#', onClick: likeMovie }, 'Like'));
         }
